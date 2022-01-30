@@ -1,0 +1,26 @@
+.table {
+  margin: 0px auto;
+  border: 7px solid;
+  background-color: rgb(250, 62, 4);
+  width: 450px;
+  border-color: rgb(27, 27, 27);
+  text-align: center;
+}
+.input-block {
+  display: inline-block;
+}
+.number {
+  background-color: rgb(97, 95, 95);
+  color: white;
+  margin: 3px;
+}
+.button-block {
+  padding: 40px;
+}
+.table .button-block button {
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  width: 60px;
+  height: 40px;
+}
